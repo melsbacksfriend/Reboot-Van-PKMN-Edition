@@ -26,3 +26,5 @@ follow the instructions.
 copy the poke_resource_table.json located in out (The one the program generated) to the folder where the original was replacing the original.  
 
 I forgot to mention that adding formes is currently unsupported but support is planned.  
+
+Another thing planned is omitting the need to specify the line.  
